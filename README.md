@@ -8,4 +8,4 @@
 * Способность к обучению.
 
 
-![IMG1.jpg](img/IMG1.JPG)
+![IMG1.jpg](img/IMG1.jpg)
